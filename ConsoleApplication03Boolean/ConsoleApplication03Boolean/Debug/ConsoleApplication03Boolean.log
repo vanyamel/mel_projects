@@ -1,0 +1,3 @@
+﻿  ConsoleApplication03Boolean.cpp
+C:\Users\User\source\repos\ConsoleApplication03Boolean\ConsoleApplication03Boolean\ConsoleApplication03Boolean.cpp(46,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication03Boolean.vcxproj -> C:\Users\User\source\repos\ConsoleApplication03Boolean\Debug\ConsoleApplication03Boolean.exe
