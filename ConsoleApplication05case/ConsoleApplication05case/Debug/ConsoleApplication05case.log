@@ -1,0 +1,14 @@
+﻿  ConsoleApplication05case.cpp
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(80,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(87,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(95,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(103,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(119,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(121,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(126,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(128,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(134,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(135,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(140,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication05case\ConsoleApplication05case\ConsoleApplication05case.cpp(141,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication05case.vcxproj -> C:\Users\User\source\repos\ConsoleApplication05case\Debug\ConsoleApplication05case.exe
