@@ -1,0 +1,3 @@
+﻿  ConsoleApplication02Integer.cpp
+C:\Users\User\source\repos\ConsoleApplication02Integer\ConsoleApplication02Integer\ConsoleApplication02Integer.cpp(63,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication02Integer.vcxproj -> C:\Users\User\source\repos\ConsoleApplication02Integer\Debug\ConsoleApplication02Integer.exe
