@@ -1,0 +1,3 @@
+﻿  ConsoleApplication06for.cpp
+C:\Users\User\source\repos\ConsoleApplication06for\ConsoleApplication06for\ConsoleApplication06for.cpp(36,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication06for.vcxproj -> C:\Users\User\source\repos\ConsoleApplication06for\Debug\ConsoleApplication06for.exe
