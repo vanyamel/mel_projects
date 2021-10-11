@@ -1,0 +1,7 @@
+﻿  Proc.cpp
+C:\Users\User\source\repos\Proc\Proc\Proc.cpp(39,46): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Proc\Proc\Proc.cpp(91,14): warning C4101: b: неиспользованная локальная переменная
+C:\Users\User\source\repos\Proc\Proc\Proc.cpp(91,17): warning C4101: p: неиспользованная локальная переменная
+C:\Users\User\source\repos\Proc\Proc\Proc.cpp(35): warning C4715: Sign: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\Proc\Proc\Proc.cpp(51): warning C4715: Quater: значение возвращается не при всех путях выполнения
+  Proc.vcxproj -> C:\Users\User\source\repos\Proc\Debug\Proc.exe
